@@ -1,13 +1,28 @@
 .cuerpito {
   font-family: Arial;
+  padding: 0% 10%;
 }
 #container {
-width: 70%;
-padding: 1em;
+width: 100%;
 text-align: center;
 border: 1px solid rgba(0, 0, 0, 0.3);
-margin:0px;
+
+
 }
 #post{
 font-size: 20px;
+}
+#cabezera{
+  
+background-color: brown;
+color:white;
+font-size: 40px;
+text-align: left;
+padding: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+#tagline {
+  font-size: 0.5em;
 }
