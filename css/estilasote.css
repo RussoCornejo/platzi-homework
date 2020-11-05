@@ -6,7 +6,8 @@
 #container {
 width: 100%;
 text-align: center;
-border: 1px solid rgba(0, 0, 0, 0.3);
+
+background-color: white;
 
 
 }
@@ -26,4 +27,8 @@ align-items: center;
 }
 #tagline {
   font-size: 0.5em;
+}
+
+body {
+background-color: rgba(171, 142, 224, 0.5);
 }
