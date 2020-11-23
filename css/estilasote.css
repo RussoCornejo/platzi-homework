@@ -33,3 +33,12 @@ body {
 background-color: rgba(142, 224, 153, 0.5);
 }
 
+.logo {
+  position: fixed;
+  left:0;
+  top:0;
+  width: 65px;
+  height: 65px;
+  margin: 10px;
+}
+
